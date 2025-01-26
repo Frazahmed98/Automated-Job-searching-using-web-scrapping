@@ -1,0 +1,15 @@
+Company: Ivan Infotech Pvt. Ltd.
+Location: Kolkata
+Skills: rest  ,  python  ,  security  ,  debugging
+Link: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp
+
+Company: glan management consultancy pvt. ltd.
+Location: Noida/Greater Noida
+Skills: python  ,  rdbms  ,  mysql  ,  cloud computing  ,  docker  ,  sql
+Link: https://www.timesjobs.com/job-detail/python-developer-glan-management-consultancy-pvt-ltd-noida-greater-noida-5-to-8-yrs-jobid-2yjhPFea__SLASH__AJzpSvf__PLUS__uAgZw==&source=srp
+
+Company: east india securities ltd.
+Location: Kolkata
+Skills: python  ,  hadoop  ,  machine learning
+Link: https://www.timesjobs.com/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&source=srp
+
